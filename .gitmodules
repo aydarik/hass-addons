@@ -1,3 +1,4 @@
 [submodule "text2image"]
 	path = text2image
 	url = https://github.com/aydarik/text2image
+    branch = main
