@@ -1,0 +1,7 @@
+---
+channel: stable
+addons:
+  text2image:
+    repository: aydarik/text2image
+    target: text2image
+    image: ghcr.io/aydarik/text2image:{arch}
